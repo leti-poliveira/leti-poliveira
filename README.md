@@ -23,6 +23,10 @@ Estou buscando integrar minha experiência em Psicologia com tecnologia, procura
 - [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/psi.jornadainterior/)
 - [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leticiapaulade@gmail.com)
 
+
+
+
+
 # 👩‍⚕️ About Me
 
 Hello! I'm Letícia, a dedicated professional in understanding the human mind and providing emotional support. At 29 years old and graduated in Psychology since 2021, I have extensive experience in dealing with people in various contexts, from hospitals and clinics to offices.
