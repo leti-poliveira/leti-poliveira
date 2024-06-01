@@ -23,14 +23,3 @@ Estou buscando integrar minha experiência em Psicologia com tecnologia, procura
 - [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/psi.jornadainterior/)
 - [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leticiapaulade@gmail.com)
 
-
-
-## 🎯 Professional Goals
-
-I am seeking to integrate my experience in Psychology with technology, looking for opportunities where I can apply my knowledge and skills innovatively. I am open to challenges and collaborations that promote well-being and human development.
-
-## 📞 Contact
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letipoliveira/)
-- [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/psi.jornadainterior/)
-- [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leticiapaulade@gmail.com)
