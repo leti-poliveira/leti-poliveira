@@ -15,7 +15,7 @@ Recentemente, decidi explorar uma nova área: a tecnologia. Estou participando d
 - Java (em desenvolvimento)
 
 ## 🎯 Objetivos Profissionais
-Estou buscando integrar minha experiência em Psicologia com tecnologia, procurando oportunidades onde possa aplicar meus conhecimentos e habilidades de forma inovadora. Estou aberto a desafios e colaborações que promovam o bem-estar e o desenvolvimento humano.
+Estou buscando integrar minha experiência em Psicologia com tecnologia, procurando oportunidades onde possa aplicar meus conhecimentos e habilidades de forma inovadora. Estou abert a desafios e colaborações que promovam o bem-estar e o desenvolvimento humano.
 
 ## 📞 Contato
 
