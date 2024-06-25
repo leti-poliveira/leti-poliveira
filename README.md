@@ -4,7 +4,7 @@ Olá! Sou Letícia, uma profissional dedicada à compreensão da mente humana e 
 
 Atualmente, trabalho de forma autônoma, oferecendo suporte emocional e orientação terapêutica para indivíduos em busca de autoconhecimento e bem-estar, com uma abordagem de atendimento psicanalítica. Minha prática terapêutica é baseada em criar um ambiente acolhedor e confidencial, utilizando técnicas da psicanálise para compreender processos mentais inconscientes e auxiliar meus pacientes a resolver conflitos internos.
 
-Recentemente, decidi explorar uma nova área: a tecnologia. Estou participando de um bootcamp de desenvolvimento de Back-end com Java com o objetivo de complementar minha formação como psicóloga. Tenho grande interesse e curiosidade na área da tecnologia e vejo esse curso como uma oportunidade de expandir minhas habilidades profissionais.
+Recentemente, decidi explorar uma nova área: a tecnologia. Estou participando de um bootcamp de desenvolvimento de Back-end com Java na DIO com o objetivo de complementar minha formação como psicóloga. Tenho grande interesse e curiosidade na área da tecnologia e vejo esse curso como uma oportunidade de expandir minhas habilidades profissionais.
 
 ## 🧠 Habilidades
 
@@ -15,7 +15,7 @@ Recentemente, decidi explorar uma nova área: a tecnologia. Estou participando d
 - Java (em desenvolvimento)
 
 ## 🎯 Objetivos Profissionais
-Estou buscando integrar minha experiência em Psicologia com tecnologia, procurando oportunidades onde possa aplicar meus conhecimentos e habilidades de forma inovadora. Estou abert a desafios e colaborações que promovam o bem-estar e o desenvolvimento humano.
+Estou buscando integrar minha experiência em Psicologia com tecnologia, procurando oportunidades onde possa aplicar meus conhecimentos e habilidades de forma inovadora. Estou aberta desafios e colaborações que promovam o bem-estar e o desenvolvimento humano.
 
 ## 📞 Contato
 
