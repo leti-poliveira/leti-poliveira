@@ -6,8 +6,7 @@ Atualmente, trilho meu próprio caminho como psicóloga clínica, oferecendo ate
 
 Decidi expandir minha formação participando de um bootcamp de desenvolvimento Back-end com Java, buscando combinar minha experiência em atendimento ao público e gestão de pessoas com habilidades em tecnologia. 💻🚀
 
-Este GitHub é um espaço para criar um portfólio, compartilhar experiências e conectar com outros profissionais na área de tecnologia e psicologia.
-
+Este GitHub é um espaço para criar um portfólio, compartilhar experiências e conectar com outros profissionais na área de tecnologia.
 ## 🧠 Habilidades
 
 - Compreensão da mente humana
