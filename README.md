@@ -19,3 +19,6 @@ Estou buscando integrar minha experiência em Psicologia com tecnologia, procura
 📞 Contato
 
 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letipoliveira/)
+- [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/psi.jornadainterior/)
+- [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leticiapaulade@gmail.com)
