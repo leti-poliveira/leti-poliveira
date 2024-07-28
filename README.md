@@ -1,23 +1,23 @@
-# 👩‍⚕️ Sobre Mim
+# 👩‍💻 Sobre Mim
 
-Olá! Sou Letícia, uma psicóloga formada desde 2021, com ampla experiência em lidar com pessoas em diversos contextos, incluindo hospitais 🏥, clínicas 🏠 e escritórios 🏢.
+Olá! Sou Letícia, desenvolvedora formada em Back-end Java e psicóloga formada em 2021. Embora eu tenha uma formação em Java, estou no início da minha jornada no desenvolvimento de software e estou me dedicando a aprimorar minhas habilidades.
 
-Atualmente, trilho meu próprio caminho como psicóloga clínica, oferecendo atendimento com orientação psicanalítica e auxiliando meus pacientes a resolverem conflitos internos e encontrarem equilíbrio emocional. 🧠💖
+Atualmente, estou ampliando minhas competências em MySQL, HTML, CSS e JavaScript. 💻🚀 Este GitHub é o meu espaço para criar um portfólio, compartilhar projetos e conectar com outros profissionais da área de tecnologia.
 
-Decidi expandir minha formação participando de um bootcamp de desenvolvimento Back-end com Java, buscando combinar minha experiência em atendimento ao público e gestão de pessoas com habilidades em tecnologia. 💻🚀
+## 💻 Habilidades
 
-Este GitHub é um espaço para criar um portfólio, compartilhar experiências e conectar com outros profissionais na área de tecnologia.
-## 🧠 Habilidades
-
-- Compreensão da mente humana
-- Suporte emocional
+- Back-end Java (iniciante)
+- MySQL
+- HTML ⏳ (em desenvolvimento)
+- CSS ⏳ (em desenvolvimento)
+- JavaScript ⏳ (em desenvolvimento)
+- Suporte psicológico
 - Orientação terapêutica
-- Atendimento psicanalítico
-- Java (em desenvolvimento)
+
 
 ## 🎯 Objetivos Profissionais
 
-Estou buscando integrar minha experiência em Psicologia com tecnologia, procurando oportunidades onde possa aplicar meus conhecimentos e habilidades de forma inovadora. Estou aberta a desafios e colaborações que promovam o bem-estar e o desenvolvimento humano.
+Estou em busca de oportunidades onde possa aplicar minhas habilidades tecnológicas e experiência em psicologia de maneira inovadora. Estou aberta a desafios e colaborações que promovam o desenvolvimento humano e tecnológico.
 
 ## 📞 Contato
 
