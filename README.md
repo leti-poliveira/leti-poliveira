@@ -6,11 +6,11 @@ Atualmente, estou ampliando minhas competências em MySQL, HTML, CSS e JavaScrip
 
 ## 💻 Habilidades
 
-- Back-end Java (iniciante)
+- Back-end Java 
 - MySQL
-- HTML ⏳ (em desenvolvimento)
-- CSS ⏳ (em desenvolvimento)
-- JavaScript ⏳ (em desenvolvimento)
+- HTML 
+- CSS 
+- JavaScript 
 - Suporte psicológico
 - Orientação terapêutica
 
