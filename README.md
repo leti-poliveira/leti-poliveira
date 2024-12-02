@@ -1,23 +1,19 @@
-# 👩‍💻 Sobre Mim
+Oi! Sou Letícia, psicóloga formada em 2021 e apaixonada por tecnologia. Trabalho com atendimento psicológico e também como conselheira de crise no Crisis Text Line. Recentemente, descobri uma paixão crescente por tecnologia, o que tem me levado a explorar novas áreas e ampliar meus conhecimentos.
 
-Olá! Sou Letícia, desenvolvedora formada em Back-end Java e psicóloga formada em 2021. Embora eu tenha uma formação em Java, estou no início da minha jornada no desenvolvimento de software e estou me dedicando a aprimorar minhas habilidades.
+Apesar de minha formação ser em Psicologia, estou investindo na minha carreira como desenvolvedora de software. Já fiz cursos de Back-end Java, HTML, CSS, JavaScript, React e construção de sites com Elementor no WordPress. Também estou aprendendo mais sobre MySQL e outras ferramentas.
 
-Atualmente, estou ampliando minhas competências em MySQL, HTML, CSS e JavaScript. 💻🚀 Este GitHub é o meu espaço para criar um portfólio, compartilhar projetos e conectar com outros profissionais da área de tecnologia.
-
-## 💻 Habilidades
-
-- Back-end Java 
-- MySQL
-- HTML 
-- CSS 
-- JavaScript 
-- Suporte psicológico
-- Orientação terapêutica
+Aqui no GitHub, compartilho meus projetos e crio meu portfólio. Busco oportunidades que combinem minha experiência em psicologia com as habilidades tecnológicas que estou desenvolvendo.
 
 
-## 🎯 Objetivos Profissionais
+💻 Habilidades
+Back-end Java
+HTML, CSS, JavaScript
+SQL
+Suporte psicológico
+Orientação terapêutica
+Construção de sites com Elementor no WordPress (em desenvolvimento)
+React.js (em desenvolvimento)
 
-Estou em busca de oportunidades onde possa aplicar minhas habilidades tecnológicas e experiência em psicologia de maneira inovadora. Estou aberta a desafios e colaborações que promovam o desenvolvimento humano e tecnológico.
 
 ## 📞 Contato
 
