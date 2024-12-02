@@ -1,4 +1,4 @@
-Oi! Sou Letícia, psicóloga formada em 2021 e apaixonada por tecnologia. Trabalho com atendimento psicológico e também como conselheira de crise no Crisis Text Line. Recentemente, descobri uma paixão crescente por tecnologia, o que tem me levado a explorar novas áreas e ampliar meus conhecimentos.
+Olá! Sou Letícia, psicóloga formada em 2021 e apaixonada por tecnologia. Trabalho com atendimento psicológico e também como conselheira de crise no Crisis Text Line. Recentemente, descobri uma paixão crescente por tecnologia, o que tem me levado a explorar novas áreas e ampliar meus conhecimentos.
 
 Apesar de minha formação ser em Psicologia, estou investindo na minha carreira como desenvolvedora de software. Já fiz cursos de Back-end Java, HTML, CSS, JavaScript, React e construção de sites com Elementor no WordPress. Também estou aprendendo mais sobre MySQL e outras ferramentas.
 
