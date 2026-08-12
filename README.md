@@ -8,14 +8,15 @@ Aqui no GitHub, compartilho meus projetos, aprendizados e experiências ao longo
 
 Vamos nos conectar? 🚀
 
-💻 Tecnologias e conhecimentos:
+💻 **Tecnologias e conhecimentos:**
 
-Java
-HTML
-CSS
-JavaScript
-Banco de dados
-Desenvolvimento de sistemas
+* Java
+* HTML
+* CSS
+* JavaScript
+* Banco de dados
+* Desenvolvimento de sistemas
+
 
 
 ## 📞 Contato
