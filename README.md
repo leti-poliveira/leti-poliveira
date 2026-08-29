@@ -8,38 +8,37 @@ Aqui no GitHub, compartilho meus projetos, aprendizados e experiências ao longo
 
 Vamos nos conectar? 🚀
 
-💻 **Tecnologias e conhecimentos:**
-
-* Java
-* HTML
-* CSS
-* JavaScript
-* Python
-* Banco de dados
-
-## 💻 Tecnologias e conhecimentos
-
 ## 💻 Tecnologias e conhecimentos
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" alt="Java"/>
+  &nbsp; Java
 </p>
 
 <p align="left">
-  <strong>Java</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>HTML</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>CSS</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>JavaScript</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Python</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>MySQL</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" alt="HTML5"/>
+  &nbsp; HTML
 </p>
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" alt="CSS3"/>
+  &nbsp; CSS
+</p>
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
+  &nbsp; JavaScript
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" alt="Python"/>
+  &nbsp; Python
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
+  &nbsp; Banco de dados
+</p>
 
 
 ## 📞 Contato
