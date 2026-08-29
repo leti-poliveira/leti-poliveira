@@ -1,12 +1,12 @@
 # Olá, eu sou a Letícia 👋
 
-Sou psicóloga, formada em 2021, e atualmente trabalho com crianças com necessidades específicas. Ao longo da minha trajetória profissional, descobri um interesse cada vez maior por tecnologia, o que me motivou a iniciar uma nova jornada na área de Desenvolvimento de Software.
+Sou psicóloga, formada em 2021, e atualmente estou em transição de carreira para a área de tecnologia.
 
-Tenho formação em Back-end com Java e conhecimentos em HTML, CSS, JavaScript e bancos de dados. Atualmente, sou estudante da ETEC, no curso de Desenvolvimento de Sistemas, buscando aprimorar meus conhecimentos e desenvolver cada vez mais minhas habilidades na área.
+💻 Estudante de Desenvolvimento de Sistemas na ETEC, com conhecimentos em Java, Python, HTML, CSS, JavaScript e MySQL.
 
-Aqui no GitHub, compartilho meus projetos, aprendizados e experiências ao longo dessa jornada na tecnologia. Estou em busca de novas oportunidades na área de desenvolvimento, onde possa aplicar meus conhecimentos, aprender continuamente e crescer profissionalmente.
+🚀 Aqui compartilho meus projetos, exercícios e aprendizados durante minha jornada na programação.
 
-Vamos nos conectar? 🚀
+🌱 Busco uma oportunidade na área de Desenvolvimento de Software para colocar meus conhecimentos em prática, continuar aprendendo e evoluir profissionalmente.
 
 ## 💻 Tecnologias e conhecimentos
 
