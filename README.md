@@ -1,4 +1,4 @@
-# Olá, eu sou a Letícia 👋
+# Olá, eu sou Letícia 👋
 
 Sou psicóloga, formada em 2021, e atualmente estou em transição de carreira para a área de tecnologia.
 
